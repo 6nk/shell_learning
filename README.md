@@ -6,7 +6,7 @@ I'll save some linux shell here when I'm reading the book named "Linux Command L
 
 - chapters
 
-  note about every chapter
+  note about every day
 
 - LCLSSBed3
 
